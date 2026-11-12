@@ -2,7 +2,7 @@
 
 An end-to-end analytics project on the 2025 Tour de France: a **PostgreSQL database** normalised to BCNF, with business rules enforced by constraints, triggers and views, and an **interactive dashboard** that tells the story of the race stage by stage.
 
-**[▶ Open the live dashboard](https://YOUR-USERNAME.github.io/tdf-2025-race-analytics/)**
+**[▶ Open the live dashboard](https://katie/nhi.github.io/tdf-2025-race-analytics/)**
 
 > **Goal:** show in one place how the 2025 route shaped the race: who won, who dropped out, and which teams and nations delivered.
 
